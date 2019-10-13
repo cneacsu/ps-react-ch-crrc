@@ -1,6 +1,6 @@
 # ps-react-ch-crrc
 Clone repo from Creating Reusable React Components course by Cory House
-
+https://github.com/coryhouse/ps-react/
 
 # cnTestJS
 Development &amp; Test Environment for NodeJS
